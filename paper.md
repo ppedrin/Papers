@@ -2,6 +2,7 @@
 Aircracft measurements and simulations biomass burning aerosols over West Africa
 
 #Author
+Joao
 Pedro Oliveira
 John Smith
 
