@@ -1,9 +1,8 @@
 # Title
-Aging of biomass burning aerosols over West Africa
+Aircracft measurements of Aging of biomass burning aerosols over West Africa
 
 #Author
 Pedro Oliveira
-John Smith
 
 
 #Introduction
