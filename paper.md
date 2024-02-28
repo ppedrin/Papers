@@ -1,4 +1,4 @@
-# Title
+ Title
 Aging of biomass burning aerosols over West Africa
 
 #Author
@@ -9,6 +9,10 @@ We presente aircraft measurements of BBOA over West Africa.
 
 Particle size was measured using a PCASP (Bloggs et al 2004).
 
-Jones et al (2008) conducted several studies in this region, but continental-scale measurements have not previously been made
+Jones et al (2008) conducted several studies in this region, but continental-scale measurements have not>
 
-A large Uncertainty is modelling the BBOA is the extent to which measurements in the literature can be applied at regional scale.
+A large Uncertainty is modelling the BBOA is the extent to which measurements in the literature can be a>
+
+
+#simulations
+We simulate the evolution of particle .....
