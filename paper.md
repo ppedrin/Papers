@@ -1,8 +1,9 @@
- Title
+#Title
 Aging of biomass burning aerosols over West Africa
 
 #Author
 Pedro Oliveira
+John Smith
 
 #Introduction
 We presente aircraft measurements of BBOA over West Africa.
@@ -14,5 +15,3 @@ Jones et al (2008) conducted several studies in this region, but continental-sca
 A large Uncertainty is modelling the BBOA is the extent to which measurements in the literature can be a>
 
 
-#simulations
-We simulate the evolution of particle .....
