@@ -2,9 +2,14 @@
 Aircracft measurements and simulations biomass burning aerosols over West Africa
 
 #Author
+<<<<<<< HEAD
 Joao
 Pedro Oliveira
 John Smith
+=======
+Pedro Oliveira // XX
+John Smith // YY
+>>>>>>> cf73b1a13d04633b3df64bf5400faeb4fe3299b4
 
 >>>>>>> simulations
 
@@ -25,3 +30,11 @@ A large Uncertainty is modelling the BBOA is the extent to which measurements in
 
 #Methodology
 We compared our measurements of particle aging
+
+
+#Results
+blbihusahduiasdha
+
+
+#figures
+Figures go in the their own section
