@@ -28,3 +28,7 @@ We compared our measurements of particle aging
 
 #Results
 blbihusahduiasdha
+
+
+#figures
+Figures go in the their own section
